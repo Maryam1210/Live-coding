@@ -1,0 +1,19 @@
+.div1{
+    background-image: url(img/image\ 12.png);
+    height: 110vh;
+    width: 100%;
+    background-size: cover;
+    color: white;
+}
+.blockvout{
+font-size: 7em;
+color: white !important;
+}
+.people{
+    font-size: 6em;
+    margin: 40px;
+    font-weight: bolder;
+}
+.secure{
+    margin: 40px;
+}
